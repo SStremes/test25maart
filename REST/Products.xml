@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productsXML>
+    <products>
+        <brand>Nike</brand>
+        <description>This is a really great jacket. It's available in several colors and will keep you warm.</description>
+        <id>123</id>
+        <price>49.99</price>
+        <name>NikeJacket</name>
+    </products>
+    <products>
+        <brand>Adidas</brand>
+        <description>This is a white t-shirt with a soccer ball on it.</description>
+        <id>162</id>
+        <price>13.99</price>
+        <name>AdidasShirt</name>
+    </products>
+    <products>
+        <brand>BRAND</brand>
+        <description>DESCRIPTION</description>
+        <id>123456</id>
+        <price>20.0</price>
+        <name>SHORTNAME</name>
+    </products>
+</productsXML>
